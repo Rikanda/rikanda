@@ -32,7 +32,7 @@ include "menu.php";
 		<a href="guess.php">Угадайка</a> <br>
 		<a href="multiguess.php">Угадайка мультиплеер</a>  <br>
 		<a href="parol.php">Генератор паролей</a>  <br>
-<a href="Algo.html">Генератор паролей</a>  <br>
+<a href="Algo.html">Алгоритмы</a>  <br>
 
 
 </div>
